@@ -1,16 +1,17 @@
 # Data analysis for a Final Project for UBC EOSC 442:
 
-## Primary Objective:
-<h2>To determine the relationship between Arctic ice levels/extent and Precipitation</h2>
+<h3>Primary Objective: To determine the relationship between Arctic ice levels/extent and Precipitation</h3>
 <br>
+<pre>
 Libraries Used:
-<ol>Pandas</ol>
-<ol>Numpy</ol>
-<ol>Matplotlib</ol>
+- Pandas
+- Numpy
+- Matplotlib
+</pre>
 <p>&nbsp;</p>
 Demonstration of using pandas and other data-related frameworks to make a scientific analysis.
 <p>&nbsp;</p>
-### References for Data
+## References for Data
 <p>&nbsp;</p>
 
 <pre>
