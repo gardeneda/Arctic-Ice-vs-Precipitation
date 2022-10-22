@@ -2,15 +2,20 @@
 
 <h3>Objective: To determine the relationship between Arctic ice levels/extent and Precipitation</h3>
 <br>
+Project Members:<br> 
+- Isaiah Youm, Bernice Huynh, Ting Gu, Yicheng Ma
+<br>
+<br>
+Coding (All of the coding you'll see in this repo):<br>
+- Isaiah Youm
+<hr>
 <pre>
 Libraries Used:
 - Pandas
 - Numpy
 - Matplotlib
 </pre>
-<p>&nbsp;</p>
-Demonstration of using pandas and other data-related frameworks to make a scientific analysis.
-<p>&nbsp;</p>
+
 <hr>
 References for Data
 <p>&nbsp;</p>
