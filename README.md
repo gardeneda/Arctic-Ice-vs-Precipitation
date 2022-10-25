@@ -10,7 +10,7 @@ Coding (All of the coding you'll see in this repo):<br>
 - Isaiah Youm
 <hr>
 <pre>
-Libraries Used:
+External Libraries Used:
 - Pandas
 - Numpy
 - Matplotlib
