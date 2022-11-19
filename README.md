@@ -14,11 +14,14 @@ External Libraries Used:
 - Pandas
 - Numpy
 - Matplotlib
+- Sklearn
+- Scipy
+- Statsmodels
 </pre>
 
 <hr>
 References for Data:
-<br> - Data pulled from FTP.
+<br> - Data pulled through FTP.
 <p>&nbsp;</p>
 
 <pre>
@@ -33,18 +36,18 @@ https://nsidc.org/data/g02135/versions/3
 <p>&nbsp;</p>
 
 <pre>
-<strong>Ice-Extent</strong><br>
+<strong>Ice-Thickness</strong><br>
 NSIDC (National Snow and Ice Data Center)
-- Sea Ice Index, Version 3 (G02135)
-- DATA SET: G02135
+- Unified Sea Ice Thickness Climate Data Record, 1947 Onward, Version 1 (G10006)
+- DATA SET: G10006
 
-https://nsidc.org/data/g02135/versions/3
+https://nsidc.org/data/g10006/versions/1
 </pre>
 
 <p>&nbsp;</p>
 
 <pre>
-<strong>Ice-Extent</strong><br>
+<strong>Precipitation</strong><br>
 
 NOAA (National Oceanic and Atmospheric Administration)
 - CMAP Precipitation
