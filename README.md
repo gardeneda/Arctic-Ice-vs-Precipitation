@@ -14,8 +14,6 @@ External Libraries Used:
 - Pandas
 - Numpy
 - Matplotlib
-- Sklearn
-- Scipy
 - Statsmodels
 </pre>
 
